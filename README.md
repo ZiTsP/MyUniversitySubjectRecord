@@ -5,5 +5,5 @@
 各課題をStepXXと題したフォルダに格納し、その課題の簡単な説明・作成後の反省点を記したテキストを併置しております
 
 ##Subject records of my university
-I collected my sorce code that I wrote in class of the univercity.
-Each subjects are stored in the folder "StepXX", and explanation of the subject and my reflection are also saved in the same foldor.
+I collected my source code that I wrote in class of the university.
+Each subject are stored in the folder "StepXX", explanation of the subject and my reflection are also saved in the same folder.
